@@ -1,0 +1,5 @@
+order_id,customer,status,amount,updated_at
+1001,Ali,pending,50.00,2026-11-08T10:00:00Z
+1002,Neha,shipped,120.00,2026-11-08T11:00:00Z
+1003,Sam,pending,80.00,2026-11-08T12:00:00Z
+1004,Lee,delivered,15.50,2026-11-08T13:00:00Z
